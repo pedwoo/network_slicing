@@ -53,6 +53,11 @@ Notes about Ryu:
 5. Interoperability
     - The project should with with any OpenFlow-enabled switch and comply with OpenFlow standards
 
+## Steps for packet filtering and routing
+
+1. Intercept incoming packets
+2. Classify packet
+
 ## Evaluation metrics
 
 1. Traffic slicing accuracy: measure the correctness of traffic classification into slices
